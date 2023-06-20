@@ -1,0 +1,105 @@
+.title {
+    font-family: "Grenze Gotisch";
+    font-size: 40px;
+    color: #581845;
+}
+
+div {
+    display: block;
+}
+
+.Section {
+    border: 2px #807062 solid;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.Section h2, h3 {
+    font-family: "Grenze Gotisch";
+}
+
+.colorscheme {
+    width: 100%;
+}
+
+.square {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    min-height: 100px;
+    text-align: center;
+    font-family: "Grenze Gotisch";
+}
+
+.coco {
+    background-color: #7d4c38;
+    color: #7d4c38;
+}
+
+.coco:hover {
+    color: white;
+}
+
+.suede {
+    background-color: #a67e53;
+    color: #a67e53;
+}
+
+.suede:hover {
+    color: white;
+}
+
+.fuzz {
+    background-color: #EDBEA2;
+    color: #EDBEA2;
+}
+
+.fuzz:hover {
+    color: #9F6C3E;
+}
+
+.feather {
+    background-color: #F7E5D9;
+    color: #F7E5D9;
+}
+
+.feather:hover {
+    color: #581845;
+}
+
+.snow {
+    background-color: #FCF7F3;
+    color: #FCF7F3;
+}
+
+.snow:hover {
+    color: #581845;
+}
+
+.GrenzeG {
+    font-family: "Grenze Gotisch";
+}
+
+.Grenze {
+    font-family: "Grenze";
+}
+
+.text-panel-1 {
+    font-family: "Grenze Gotisch";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text-panel-2 {
+    font-family: "Grenze Gotisch";
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.text-panel-3 {
+    font-family: "Grenze";
+    font-size: 14px;
+    font-weight: normal;
+}
